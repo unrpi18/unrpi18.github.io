@@ -30,7 +30,7 @@ github_username:  unrpi18
 # Build settings
 theme: minimal-mistakes-jekyll
 plugins:
-  - jekyll-feed
+  - jekyll-include-cache
 
 author:
   name: Keyi Li

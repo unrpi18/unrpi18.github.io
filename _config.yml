@@ -28,9 +28,11 @@ url: "https://unrpi18.github.io" # the base hostname & protocol for your site, e
 github_username:  unrpi18
 
 # Build settings
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 author:
   name: Keyi Li
